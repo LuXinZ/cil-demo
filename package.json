@@ -1,6 +1,6 @@
 {
-  "name": "cil-demo",
-  "version": "1.0.7",
+  "name": "reactToTaroCliDemo",
+  "version": "1.0.8",
   "description": "",
   "main": "index.js",
   "bin": "cli.js",
