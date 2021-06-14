@@ -1,6 +1,6 @@
 {
-  "name": "reactToTaroCliDemo",
-  "version": "1.0.9",
+  "name": "react_to_taro_cli_demo",
+  "version": "1.0.10",
   "description": "",
   "main": "index.js",
   "bin": "cli.js",
