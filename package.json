@@ -1,6 +1,6 @@
 {
-  "name": "cil-demo",
-  "version": "1.0.4",
+  "name": "react_to_taro_cli_demo",
+  "version": "1.0.12",
   "description": "",
   "main": "index.js",
   "bin": "cli.js",
